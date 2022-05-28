@@ -5,7 +5,6 @@
 <p>🙏 I'm looking for help with Tinvesta (marketing)</p>
 <p>💬 Ask me about FullStack Development</p>
 <p>📫 How to reach me? pawel.wojtasinski.1995@gmail.com</p>
-<p>I regularly write articles on <a href="https://www.tinvesta.io">Tinvesta</a></p>
 
 ## 💻 Skills
 <p>
