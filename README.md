@@ -31,6 +31,7 @@
 
 ## 🌟 Github Badges
 <p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=playerony&layout=compact">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -39,3 +40,5 @@
 </p>
 
 ## 📊 Github Status
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=playerony"></p>
