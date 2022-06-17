@@ -2,7 +2,6 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on <b>Tinvesta</b></p>
-<p>🙏 I'm looking for help with <b>Tinvesta (marketing)</b></p>
 <p>💬 Ask me about <b>FullStack Development</b></p>
 <p>📫 How to reach me? <b>pawel.wojtasinski.1995@gmail.com</b></p>
 
