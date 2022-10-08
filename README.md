@@ -1,8 +1,8 @@
 # Hi there 👋, My name is Paweł Wojtasiński
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on <b>Tinvesta</b></p>
-<p>💬 Ask me about <b>FullStack Development</b></p>
+<p>🔭 I'm currently working on <b>Nothing (I have not been working for 3 months)</b></p>
+<p>💬 Ask me about <b>Nothing (I want to take a rest)</b></p>
 <p>📫 How to reach me? <b>pawel.wojtasinski.1995@gmail.com</b></p>
 
 ## 💻 Skills
