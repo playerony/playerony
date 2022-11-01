@@ -3,7 +3,7 @@
 <h3><b>Frontend</b> & <b>Yoga</b> & <b>Psychology</b> & <b>Guitar</b> & <b>Painting lover</b></h3>
 
 ## 💫 Little Bit More About Me
-<p>🔭 I'm currently working on <a href="https://www.tinvesta.io" rel="nofollow">Tinvesta</a></p>
+<p>🔭 I'm currently working on <a href="https://github.com/Levofron" rel="nofollow">Levofron</a></p>
 <p>💬 Ask me about <b>Frontend Architecture</b></p>
 
 ## 💻 Skills
