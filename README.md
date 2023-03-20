@@ -30,9 +30,10 @@
 </p>
 <br>
 <br>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=playerony&show_icons=true&locale=en&layout=compact" alt="playerony" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=playerony&show_icons=true&locale=en" alt="playerony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=playerony&" alt="playerony" /></p>
+<p style="display: flex;">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=playerony&show_icons=true&locale=en&layout=compact" alt="playerony" />
+  </p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=playerony&show_icons=true&locale=en" alt="playerony" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=playerony&" alt="playerony" /></p>
+</p>
