@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NotionLingo](https://github.com/Levofron/NotionLingo)
 
-- 🌱 I’m currently learning **Clean architecture, Tree.js**
+- 🌱 I’m currently learning **Clean architecture, Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/playerony](https://github.com/playerony)
 
