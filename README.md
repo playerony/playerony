@@ -15,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wojtasinskipawe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_of_Twitter%2C_Inc..svg/1024px-Logo_of_Twitter%2C_Inc..svg.png" alt="wojtasinskipawe" height="30" width="40" /></a>
-<a href="https://medium.com/@pawelwojtasinski" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/390px-Medium_logo_Monogram.svg.png?20170829134410" alt="@pawelwojtasinski" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/pwojtasinski" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="pwojtasinski" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/pwojtasinski" target="blank"><img align="center" src="https://i.imgur.com/AUH3csl.png" alt="pwojtasinski" height="40" width="40" /></a>
+<a href="https://medium.com/@pawelwojtasinski" target="blank"><img align="center" src="https://i.imgur.com/0ia9HLv.png" alt="@pawelwojtasinski" height="40" width="40" /></a>
+<a href="https://hackernoon.com/u/playerony" target="blank"><img align="center" src="https://i.imgur.com/hGOU3Sz.png" alt="@playerony" height="40" width="40" /></a>
+<a href="https://twitter.com/wojtasinskipawe" target="blank"><img align="center" src="https://i.imgur.com/2hFGAvO.png" alt="wojtasinskipawe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
