@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=playerony" alt="playerony" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=playerony" alt="playerony" /></a></p>
 
-- 🔭 I’m currently working on [NotionLingo](https://github.com/Levofron/NotionLingo)
+- 🔭 I’m currently working on [my portfolio](https://github.com/playerony/portfolio)
 
-- 🌱 I’m currently learning **Clean architecture, Three.js**
+- 🌱 I’m currently learning **Three.js, Playing guitar**
 
 - 👨‍💻 All of my projects are available at [https://github.com/playerony](https://github.com/playerony)
 
